@@ -50,9 +50,12 @@ h2 {
     background-color: #8B5E54;
 }
 
-table, th, td
-{
-  width:50%;
-  border: 1px solid black;
-  float:right;
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    float:right;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
 }
