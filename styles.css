@@ -49,3 +49,9 @@ h2 {
 .dropdown:hover .dropbtn {
     background-color: #8B5E54;
 }
+
+table#z-links
+{
+  border: 1px solid black;
+  float:right;
+}
