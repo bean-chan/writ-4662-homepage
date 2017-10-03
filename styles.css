@@ -3,11 +3,11 @@ body {
 }
 
 h2 {
-  color: #7A0019;
+  color: #08202D;
 }
 
 #contact {
-  background-color: #FFDE7A;
+  background-color: #00CDCD;
   padding: 2%;
 }
 
@@ -48,4 +48,10 @@ h2 {
 
 .dropdown:hover .dropbtn {
     background-color: #8B5E54;
+}
+
+table#z-links
+{
+  border: 1px solid black;
+  float:right;
 }
